@@ -18,8 +18,7 @@ function App() {
             backgroundImage: `url(${moon})`,
             backgroundSize: 'cover',
           }}
-        >
-        </ParallaxLayer>
+        />
 
         <ParallaxLayer
           offset={2}
