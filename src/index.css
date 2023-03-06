@@ -28,3 +28,11 @@ h1,h2 {
 				 0.04em -0.04em 0 #000,
 				-0.04em -0.04em 0 #000;
 }
+
+/* @media screen and (orientation:portrait) {
+  alert("sdsds");
+} */
+
+/* @media screen and (orientation:landscape) {
+  // CSS applied when the device is in landscape mode
+} */
